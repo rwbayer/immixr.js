@@ -7,7 +7,7 @@ Check out the [immixr 2.0 homepage](http://www.immixr.me) for examples and more 
 
 1. Download immixr.js (clone this repo)
 2. Put immixr.js in the javascript folder of your website.
-3. Put immixr.css in the css/style folder of your website.
+3. Put immixr.css in whatever folder you keep css files for your website.
 4. Include both in your html file.
 5. Go to <https://www.instagram.com/developer/>, sign in, and register a new client. Make sure that "Disable implicit OAuth" is NOT checked.
 6. Double check that you remembered to uncheck "Disable implicit OAuth".
@@ -31,7 +31,7 @@ Check out the [immixr 2.0 homepage](http://www.immixr.me) for examples and more 
 ## More Info
 Check out the [immixr 2.0 homepage](http://www.immixr.me) for examples and more information.
 
-If you find an issue or have a suggestion, use the [issues page]().
+If you find an issue or have a suggestion, use the [issues page](https://github.com/rwbayer/immixr.js/issues).
 
-If you'd like to contribute, create a [pull request]() or [tweet me](https://twitter.com/rwbayer).
+If you'd like to contribute, create a [pull request](https://github.com/rwbayer/immixr.js/pulls) or [tweet me](https://twitter.com/rwbayer).
 
