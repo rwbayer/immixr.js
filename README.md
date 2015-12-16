@@ -9,7 +9,11 @@ Check out the [immixr 2.0 homepage](http://www.immixr.me) for examples and more 
 2. Put immixr.js in the javascript folder of your website.
 3. Put immixr.css in the css/style folder of your website.
 4. Include both in your html file.
-5. In your main.js, a new javascript file, or in your html in script tags, initialize immixr.
+5. Go to <https://www.instagram.com/developer/>, sign in, and register a new client. Make sure that "Disable implicit OAuth" is NOT checked.
+6. Double check that you remembered to uncheck "Disable implicit OAuth".
+7. [Get your Instagram User Id.](http://jelled.com/instagram/lookup-user-id)
+8. [Get an access token for your account and the new client you just created.](http://jelled.com/instagram/access-token)
+5. In your main.js, a new javascript file, or in your html in script tags, initialize immixr, replacing the fields with your personal information and your preferred attributes.
    ```javascript
    $(document).ready(function() {
 			var userID = "YOUR_USER_ID";
